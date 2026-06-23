@@ -44,4 +44,12 @@
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0477-total-hamming-distance) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
