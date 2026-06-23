@@ -29,3 +29,19 @@
 
 ## Profiles
 - LeetCode: <https://leetcode.com/u/guptaji2611/>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0477-total-hamming-distance](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0477-total-hamming-distance) |
+## Math
+|  |
+| ------- |
+| [0477-total-hamming-distance](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0477-total-hamming-distance) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0477-total-hamming-distance](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0477-total-hamming-distance) |
+<!---LeetCode Topics End-->
