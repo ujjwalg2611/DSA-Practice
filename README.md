@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0477-total-hamming-distance) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
