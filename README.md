@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0477-total-hamming-distance](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0477-total-hamming-distance) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -69,6 +70,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -186,4 +188,8 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
