@@ -46,6 +46,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -150,10 +152,12 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Stack
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Tree
 |  |
 | ------- |
@@ -230,6 +234,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0566-reshape-the-matrix) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Shortest Path
 |  |
 | ------- |
@@ -247,4 +252,8 @@
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
