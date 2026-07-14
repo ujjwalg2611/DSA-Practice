@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0228-summary-ranges](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0477-total-hamming-distance](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0477-total-hamming-distance) |
 | [0566-reshape-the-matrix](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0566-reshape-the-matrix) |
