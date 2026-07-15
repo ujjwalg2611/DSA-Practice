@@ -44,6 +44,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [1480-running-sum-of-1d-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
