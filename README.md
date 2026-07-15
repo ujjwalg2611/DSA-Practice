@@ -45,6 +45,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -196,6 +197,7 @@
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
+| [1672-richest-customer-wealth](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
