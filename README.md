@@ -58,6 +58,7 @@
 | [3620-network-recovery-pathways](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
@@ -74,6 +75,7 @@
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -245,6 +248,7 @@
 | [0412-fizz-buzz](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Shortest Path
 |  |
 | ------- |
@@ -262,6 +266,7 @@
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -271,4 +276,5 @@
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
