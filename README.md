@@ -48,6 +48,7 @@
 | [1672-richest-customer-wealth](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -71,6 +72,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -283,6 +285,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
