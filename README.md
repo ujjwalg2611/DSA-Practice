@@ -39,6 +39,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0477-total-hamming-distance](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0477-total-hamming-distance) |
 | [0566-reshape-the-matrix](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [1288-remove-covered-intervals](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -193,6 +194,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0404-sum-of-left-leaves](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0695-max-area-of-island](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [1301-number-of-paths-with-max-score](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -231,6 +234,7 @@
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0695-max-area-of-island](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -238,6 +242,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
