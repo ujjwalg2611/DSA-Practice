@@ -4,7 +4,7 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        // k = k % (m * n);
+        k = k % (m * n);
 
         vector<vector<int>> ans = grid;
 
