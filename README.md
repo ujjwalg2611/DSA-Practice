@@ -37,6 +37,7 @@
 | ------- |
 | [0228-summary-ranges](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0477-total-hamming-distance](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0477-total-hamming-distance) |
 | [0566-reshape-the-matrix](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0566-reshape-the-matrix) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -125,6 +127,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -141,6 +144,7 @@
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
@@ -157,6 +161,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -264,6 +269,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -319,4 +325,12 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
