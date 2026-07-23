@@ -44,6 +44,7 @@
 | [0477-total-hamming-distance](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0477-total-hamming-distance) |
 | [0566-reshape-the-matrix](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1288-remove-covered-intervals) |
@@ -198,6 +199,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0739-daily-temperatures](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Tree
@@ -323,6 +325,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Number Theory
