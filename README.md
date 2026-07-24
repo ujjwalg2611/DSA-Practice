@@ -45,6 +45,7 @@
 | [0566-reshape-the-matrix](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0739-daily-temperatures) |
+| [0912-sort-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1288-remove-covered-intervals) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -150,6 +152,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -176,6 +179,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -290,6 +294,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -351,8 +356,17 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
