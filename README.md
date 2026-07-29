@@ -44,6 +44,7 @@
 | [0477-total-hamming-distance](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0477-total-hamming-distance) |
 | [0566-reshape-the-matrix](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0912-sort-an-array) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0477-total-hamming-distance](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0477-total-hamming-distance) |
+| [0645-set-mismatch](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -136,6 +138,7 @@
 | [0036-valid-sudoku](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0299-bulls-and-cows](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -187,6 +190,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
