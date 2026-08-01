@@ -45,6 +45,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0477-total-hamming-distance](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0566-reshape-the-matrix](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0645-set-mismatch) |
@@ -90,6 +91,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -121,6 +123,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -354,6 +357,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0486-predict-the-winner) |
 ## Simulation
 |  |
 | ------- |
@@ -424,4 +428,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
