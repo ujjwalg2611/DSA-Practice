@@ -255,6 +255,7 @@
 | [0226-invert-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -263,6 +264,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -275,6 +277,7 @@
 | [0226-invert-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -317,6 +320,7 @@
 | [0226-invert-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
