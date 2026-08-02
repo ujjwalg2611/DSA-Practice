@@ -51,6 +51,7 @@
 | [0645-set-mismatch](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1046-last-stone-weight](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1046-last-stone-weight) |
@@ -93,6 +94,7 @@
 | [0477-total-hamming-distance](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -358,6 +361,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
