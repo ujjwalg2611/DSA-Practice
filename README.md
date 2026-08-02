@@ -151,6 +151,7 @@
 | [0299-bulls-and-cows](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0645-set-mismatch) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -262,6 +263,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -273,6 +275,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -284,6 +287,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -329,6 +333,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
