@@ -38,6 +38,7 @@
 | [0036-valid-sudoku](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0275-h-index-ii) |
@@ -89,6 +90,7 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0412-fizz-buzz) |
@@ -196,6 +198,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -409,6 +412,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -454,4 +458,16 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1406-stone-game-iii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
