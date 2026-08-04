@@ -239,6 +239,7 @@
 | [0299-bulls-and-cows](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0299-bulls-and-cows) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0412-fizz-buzz) |
+| [0686-repeated-string-match](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0686-repeated-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -489,4 +490,20 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
