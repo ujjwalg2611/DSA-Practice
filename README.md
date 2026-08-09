@@ -56,6 +56,7 @@
 | [0912-sort-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1046-last-stone-weight](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1046-last-stone-weight) |
+| [1140-stone-game-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -99,6 +100,7 @@
 | [0486-predict-the-winner](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -134,6 +136,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1406-stone-game-iii) |
@@ -148,6 +151,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [1140-stone-game-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -404,6 +408,7 @@
 | [0292-nim-game](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Simulation
 |  |
@@ -491,10 +496,12 @@
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Primality Test
 |  |
