@@ -168,6 +168,7 @@
 | [0036-valid-sudoku](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0299-bulls-and-cows](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0383-ransom-note) |
 | [0645-set-mismatch](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -208,6 +209,7 @@
 | ------- |
 | [0299-bulls-and-cows](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -255,6 +257,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0299-bulls-and-cows](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0383-ransom-note) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0686-repeated-string-match](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0686-repeated-string-match) |
