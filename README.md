@@ -73,6 +73,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3101-count-alternating-subarrays](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3101-count-alternating-subarrays) |
@@ -174,6 +175,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -277,6 +279,7 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
 |  |
 | ------- |
