@@ -76,6 +76,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -115,6 +116,7 @@
 | [1510-stone-game-iv](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2029-stone-game-ix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3101-count-alternating-subarrays](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3101-count-alternating-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -383,6 +385,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -455,6 +458,7 @@
 | [0985-sum-of-even-numbers-after-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1260-shift-2d-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Shortest Path
 |  |
