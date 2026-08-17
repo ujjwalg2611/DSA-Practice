@@ -68,6 +68,7 @@
 | [1406-stone-game-iii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -115,6 +116,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -156,6 +158,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1563-stone-game-v) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -451,6 +454,7 @@
 | [1140-stone-game-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
