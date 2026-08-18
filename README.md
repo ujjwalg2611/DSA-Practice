@@ -43,6 +43,7 @@
 | [0228-summary-ranges](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
@@ -153,6 +154,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0877-stone-game) |
@@ -406,6 +408,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -626,4 +629,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
