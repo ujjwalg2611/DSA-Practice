@@ -39,6 +39,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0275-h-index-ii) |
@@ -170,6 +171,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -300,6 +302,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -400,6 +403,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0275-h-index-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
