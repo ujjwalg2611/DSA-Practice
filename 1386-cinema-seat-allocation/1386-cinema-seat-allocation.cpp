@@ -23,7 +23,7 @@ public:
                 int families;
 
                 if (b1 && b3)
-                    families++;
+                    families = 2;
                 else if (b1 || b2 || b3)
                     families = 1;
                 else 
@@ -52,7 +52,7 @@ public:
             int families;
 
             if (b1 && b3)
-                families++;
+                families = 2;
             else if (b1 || b2 || b3)
                 families = 1;
             else 
