@@ -88,6 +88,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3101-count-alternating-subarrays](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3101-count-alternating-subarrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -128,6 +129,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3101-count-alternating-subarrays](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3101-count-alternating-subarrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -150,6 +152,7 @@
 | [0645-set-mismatch](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -415,6 +418,7 @@
 | [0275-h-index-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -517,6 +521,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -525,6 +530,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bucket Sort
