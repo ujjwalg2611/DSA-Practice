@@ -116,6 +116,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -212,6 +213,7 @@
 | [3771-total-score-of-dungeon-runs](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3771-total-score-of-dungeon-runs) |
 | [3862-find-the-smallest-balanced-index](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3862-find-the-smallest-balanced-index) |
 | [3903-smallest-stable-index-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
