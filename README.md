@@ -702,4 +702,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
