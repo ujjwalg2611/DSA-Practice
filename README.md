@@ -178,6 +178,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0264-ugly-number-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0486-predict-the-winner) |
@@ -329,6 +330,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0008-string-to-integer-atoi) |
+| [0115-distinct-subsequences](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0299-bulls-and-cows](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0383-ransom-note) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
