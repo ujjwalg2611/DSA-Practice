@@ -124,6 +124,7 @@
 | [0204-count-primes](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0292-nim-game) |
+| [0365-water-and-jug-problem](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0365-water-and-jug-problem) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0477-total-hamming-distance) |
@@ -408,6 +409,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
@@ -487,6 +489,7 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0226-invert-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -720,4 +723,20 @@
 | [1148-article-views-i](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
