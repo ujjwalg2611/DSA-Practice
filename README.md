@@ -55,6 +55,7 @@
 | [0695-max-area-of-island](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -462,6 +463,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0566-reshape-the-matrix](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0695-max-area-of-island) |
+| [0835-image-overlap](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
