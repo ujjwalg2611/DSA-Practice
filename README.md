@@ -132,6 +132,7 @@
 | [0477-total-hamming-distance](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -745,4 +746,8 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0365-water-and-jug-problem) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
