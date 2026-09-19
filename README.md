@@ -139,6 +139,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1563-stone-game-v) |
@@ -767,4 +768,5 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
