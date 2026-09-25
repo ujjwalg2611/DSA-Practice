@@ -251,6 +251,7 @@
 | [0645-set-mismatch](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -347,6 +348,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0912-sort-an-array) |
+| [1096-brace-expansion-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -373,6 +375,7 @@
 | [0686-repeated-string-match](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0686-repeated-string-match) |
 | [0940-distinct-subsequences-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1927-sum-game) |
@@ -417,6 +420,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0739-daily-temperatures](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Tree
 |  |
@@ -534,6 +538,7 @@
 | [0695-max-area-of-island](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ujjwalg2611/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
@@ -730,6 +735,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
