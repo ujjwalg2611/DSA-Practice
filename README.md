@@ -371,6 +371,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0299-bulls-and-cows](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0383-ransom-note) |
@@ -424,6 +425,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0739-daily-temperatures](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0739-daily-temperatures) |
@@ -805,6 +807,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
