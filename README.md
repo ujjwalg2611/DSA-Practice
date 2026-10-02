@@ -197,6 +197,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0264-ugly-number-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
@@ -372,6 +373,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0299-bulls-and-cows](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0383-ransom-note) |
@@ -749,6 +751,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
@@ -808,6 +811,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
