@@ -130,6 +130,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0043-multiply-strings) |
 | [0204-count-primes](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0292-nim-game) |
@@ -378,6 +379,7 @@
 | [0020-valid-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0299-bulls-and-cows](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0383-ransom-note) |
@@ -610,6 +612,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0985-sum-of-even-numbers-after-queries) |
