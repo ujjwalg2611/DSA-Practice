@@ -203,6 +203,7 @@
 | [0264-ugly-number-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
@@ -332,6 +333,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -381,6 +383,7 @@
 | [0383-ransom-note](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0383-ransom-note) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0686-repeated-string-match) |
 | [0940-distinct-subsequences-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -433,6 +436,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0678-valid-parenthesis-string](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1096-brace-expansion-ii) |
@@ -816,6 +820,7 @@
 | [0020-valid-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
