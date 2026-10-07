@@ -383,6 +383,7 @@
 | [0043-multiply-strings](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0299-bulls-and-cows](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0383-ransom-note) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0412-fizz-buzz) |
@@ -560,6 +561,7 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
@@ -767,6 +769,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/ujjwalg2611/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ujjwalg2611/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
